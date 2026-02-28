@@ -2,7 +2,6 @@
 
 I'm **GRT**, a **23-year-old Senior Digital Designer** with **10+ years of experience** in the creative industry.
 
-- 🎨 Started designing at **12 years old**
 - 🧩 **4 years specialized in UI/UX**
 - 🚀 Delivered **250+ completed interface projects**
 - 💰 Contributed to projects generating **$100,000+ in client revenue**
