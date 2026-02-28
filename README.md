@@ -18,9 +18,16 @@ In my work, clarity meets creativity:
 ![3ds Max](https://img.shields.io/badge/3DS%20MAX-00AEEF?style=for-the-badge&logo=autodesk&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AUTOCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 
-### 💻 Dev / Code Friendly
-HTML • CSS • JavaScript • Git  
-I work hand-in-hand with developers for smoother builds.
+### 💻 Programming Languages
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🚀 Projects & Interests
 - Frontend UI Assets
