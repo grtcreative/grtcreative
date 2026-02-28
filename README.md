@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Berke 🧠
 
-<!--
-**grtcreative/grtcreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Digital Designer** based in Türkiye 🇹🇷.
+I build thoughtful, pixel-perfect experiences — from design systems to production-ready UI.
 
-Here are some ideas to get you started:
+In my work, clarity meets creativity:
+- Clean design systems
+- Functional UX flows
+- Scalable visual frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Skillset
+
+### 🎨 Design
+Figma • Illustrator • Photoshop • After Effects  
+UI / UX • Responsive Design • Prototyping
+
+### 💻 Dev / Code Friendly
+HTML • CSS • JavaScript • Git  
+I work hand-in-hand with developers for smoother builds.
+
+## 🚀 Projects & Interests
+- Frontend UI Assets
+- Figma Plugins & Widgets
+- Design Systems
+- Game UI & HUD Concepts
+- 3D Interfaces
+
+## 🔭 Currently
+Working on:
+- Portfolio site redesign
+- Figma components library
+- Open-source UI kits
+
+## 💬 Let’s Connect
+I'm always looking to collaborate, share ideas, and build meaningful things.
+
+📫 Say hi: **berke@example.com**
+🌐 Twitter / LinkedIn / Behance links
