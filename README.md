@@ -8,9 +8,8 @@ In my work, clarity meets creativity:
 - Functional UX flows
 - Scalable visual frameworks
 
-## 🛠️ My Skillset
+## ⚡ Professional Stack
 
-### 🎨 Design
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/BLENDER-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![After Effects](https://img.shields.io/badge/AFTER%20EFFECTS-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
@@ -18,7 +17,6 @@ In my work, clarity meets creativity:
 ![Cinema 4D](https://img.shields.io/badge/CINEMA%204D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white)
 ![3ds Max](https://img.shields.io/badge/3DS%20MAX-00AEEF?style=for-the-badge&logo=autodesk&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AUTOCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
-UI / UX • Responsive Design • Prototyping
 
 ### 💻 Dev / Code Friendly
 HTML • CSS • JavaScript • Git  
