@@ -1,6 +1,6 @@
 ## 🧠 WHOAMI
 
-I'm **Berke**, a **23-year-old Senior Digital Designer** with **10+ years of experience** in the creative industry.
+I'm **GRT**, a **23-year-old Senior Digital Designer** with **10+ years of experience** in the creative industry.
 
 - 🎨 Started designing at **12 years old**
 - 🧩 **4 years specialized in UI/UX**
@@ -16,9 +16,6 @@ I'm **Berke**, a **23-year-old Senior Digital Designer** with **10+ years of exp
 - Designing for **performance, clarity, and real users**
 
 ---
-
-I don't design decoration.  
-I design **systems that work.**
 
 ## ⚡ Professional Stack
 
@@ -41,21 +38,48 @@ I design **systems that work.**
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🚀 Projects & Interests
-- Frontend UI Assets
-- Figma Plugins & Widgets
-- Design Systems
-- Game UI & HUD Concepts
-- 3D Interfaces
+## 🤖 AI & Generative Systems
 
-## 🔭 Currently
-Working on:
-- Portfolio site redesign
-- Figma components library
-- Open-source UI kits
+Over the past years, I’ve been actively developing advanced knowledge in **AI image models and optimization workflows**, focusing on both performance and production-level outputs.
 
+### 🧠 Model Knowledge
+
+- Working with **GGUF quantized models**
+- Deep understanding of **FP8 / FP16 / FP32 precision formats**
+- Performance vs quality optimization strategies
+- Model memory efficiency & deployment awareness
+
+### 🎯 LoRA & Custom Training
+
+- Training **custom LoRA models**
+- Building brand-specific and character-consistent LoRAs
+- Creating **visual identity-preserving workflows**
+- Preparing AI pipelines tailored for company-level production
+
+### 🖼️ Model Ecosystem Experience
+
+Hands-on workflow development for:
+
+- **Qwen Image**
+- **Z-Image**
+- **FLUX**
+- **Stable Diffusion**
+- **SDXL**
+
+### ⚙️ Workflow Engineering
+
+- Designing structured generation pipelines
+- Prompt architecture & modular prompt systems
+- Consistency-focused rendering strategies
+- Production-ready automation setups
+
+---
+
+I don't just generate images.  
+I build controllable, scalable AI visual systems.
 ## 💬 Let’s Connect
 I'm always looking to collaborate, share ideas, and build meaningful things.
 
-📫 Say hi: **berke@example.com**
+📫 Say hi: **grtstudio.orbitstudio.net**
+📫 Discord: **grtstudio**
 🌐 Twitter / LinkedIn / Behance links
