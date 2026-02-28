@@ -12,7 +12,6 @@ I'm **GRT**, a **23-year-old Senior Digital Designer** with **10+ years of exper
 
 - I don’t aim to make projects “good”  I make them impossible to ignore.
 - Even strong projects level up when I touch them.
-- I design the most solid, battle-ready interfaces from day one.
 - Structure. Precision. Impact. No weak execution.
 - I’ve yet to deliver a project that left a client disappointed.
 
