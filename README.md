@@ -1,12 +1,20 @@
-# 👋 Hi, I'm Berke 🧠
+## 🧠 WHOAMI
 
-I'm a **Senior Digital Designer** based in **Türkiye 🇹🇷**.
-I build thoughtful, pixel-perfect experiences from design systems to production-ready UI.
+I'm Berke, a 23-year-old Senior Digital Designer with over a decade of experience in the creative industry.
 
-In my work, clarity meets creativity:
-- Clean design systems
-- Functional UX flows
-- Scalable visual frameworks
+I started designing at 12. Over the last 4 years, I’ve specialized in UI/UX, delivering 250+ completed interface projects across web, game, and digital platforms.
+
+My work doesn’t just look good — it performs.  
+Projects I’ve contributed to have generated over $100,000+ in revenue for my clients.
+
+I focus on building clean, scalable, and production-ready UI systems that balance aesthetics with structure and usability.
+
+In addition to client work, I’ve provided UI/UX services for 4 different games published on Steam — designing interfaces that enhance gameplay clarity and user retention.
+
+For the past 2 years, I’ve also been expanding into software development, bridging the gap between design and implementation.
+
+I don't design decoration.  
+I design systems that work.
 
 ## ⚡ Professional Stack
 
