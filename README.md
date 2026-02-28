@@ -85,6 +85,5 @@ Hands-on workflow development for:
 
 **Discord:** grtstudio<br>
 **Behance:** [LINK](https://www.behance.net/grtcreative)<br>
-**Instagram:** [LINK](https://www.instagram.com/berkegrt/)
 
 
