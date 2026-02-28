@@ -79,11 +79,7 @@ Hands-on workflow development for:
 
 ---
 
-I don't just generate images.  
-I build controllable, scalable AI visual systems.
-## 💬 Let’s Connect
-I'm always looking to collaborate, share ideas, and build meaningful things.
 
-📫 Say hi: **grtstudio.orbitstudio.net**
-📫 Discord: **grtstudio**
-🌐 Twitter / LinkedIn / Behance links
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)] : grtstudio
+[![Behance](https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white)]([https://behance.net/yourlink](https://www.behance.net/grtcreative))
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourlink](https://www.instagram.com/berkegrt/))
