@@ -1,20 +1,24 @@
 ## 🧠 WHOAMI
 
-I'm Berke, a 23-year-old Senior Digital Designer with over a decade of experience in the creative industry.
+I'm **Berke**, a **23-year-old Senior Digital Designer** with **10+ years of experience** in the creative industry.
 
-I started designing at 12. Over the last 4 years, I’ve specialized in UI/UX, delivering 250+ completed interface projects across web, game, and digital platforms.
+- 🎨 Started designing at **12 years old**
+- 🧩 **4 years specialized in UI/UX**
+- 🚀 Delivered **250+ completed interface projects**
+- 💰 Contributed to projects generating **$100,000+ in client revenue**
+- 🎮 Provided UI/UX services for **4 Steam-published games**
+- 💻 Expanding into software development for the past **2 years**
 
-My work doesn’t just look good — it performs.  
-Projects I’ve contributed to have generated over $100,000+ in revenue for my clients.
+### 🔎 What I Focus On
 
-I focus on building clean, scalable, and production-ready UI systems that balance aesthetics with structure and usability.
+- Building **clean, scalable, production-ready UI systems**
+- Balancing **aesthetics, structure, and usability**
+- Designing for **performance, clarity, and real users**
 
-In addition to client work, I’ve provided UI/UX services for 4 different games published on Steam — designing interfaces that enhance gameplay clarity and user retention.
-
-For the past 2 years, I’ve also been expanding into software development, bridging the gap between design and implementation.
+---
 
 I don't design decoration.  
-I design systems that work.
+I design **systems that work.**
 
 ## ⚡ Professional Stack
 
