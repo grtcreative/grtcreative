@@ -38,7 +38,11 @@ I'm **GRT**, a **23-year-old Senior Digital Designer** with **10+ years of exper
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+---
+
 ## 🤖 AI & Generative Systems
+
+![ComfyUI](https://img.shields.io/badge/COMFYUI-111111?style=for-the-badge&logoColor=white)
 
 Over the past years, I’ve been actively developing advanced knowledge in **AI image models and optimization workflows**, focusing on both performance and production-level outputs.
 
