@@ -11,12 +11,7 @@ I'm **GRT**, a **23-year-old Senior Digital Designer** with **10+ years of exper
 ### 🔥 My Standard
 
 - I don’t aim to make projects “good”  I make them impossible to ignore.
-- Even strong projects level up when I touch them.
-- Structure. Precision. Impact. No weak execution.
 - I’ve yet to deliver a project that left a client disappointed.
-
-If it looks good, I can make it elite.  
-If it’s already elite, I’ll make it untouchable.
 
 ---
 
